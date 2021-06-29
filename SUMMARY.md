@@ -1,5 +1,5 @@
 # Table of contents
 
 * [SpringStudy](README.md)
-* [Spring](test.md)
+* [Spring](spring.md)
 
